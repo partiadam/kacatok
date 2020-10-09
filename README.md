@@ -1,4 +1,4 @@
-# kacatok
+# linkek
 https://infopy.eet.bme.hu/
 
 
